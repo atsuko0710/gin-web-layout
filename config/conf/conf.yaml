@@ -1,0 +1,5 @@
+db:
+  name: bluebell
+  addr: 192.168.28.173:3305
+  username: root
+  password: 123456
