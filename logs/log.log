@@ -1,0 +1,1 @@
+{"level":"INFO","timestamp":"2021-06-22 18:39:09.658","file":"cmd/main.go:37","msg":"Start to listening the incoming requests on http address: :8080"}
